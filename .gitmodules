@@ -1,0 +1,6 @@
+[submodule "path/to/submodule"]
+	path = path/to/submodule
+	url = https://github.com/FrKael/Macie-AutoProject
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/FrKael/Macie-AutoProject
